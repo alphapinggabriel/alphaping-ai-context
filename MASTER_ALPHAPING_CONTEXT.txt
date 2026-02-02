@@ -3940,3 +3940,118 @@ Official account replies (@0xAlphaPing):
 - X only
 - Max 2–3 per week
 - Purely operational
+
+==================================================
+FILE: codex/VOICE_RULES.md
+==================================================
+
+# AlphaPing — Voice Rules (Binding)
+
+## Purpose
+These rules govern every external draft. If any rule conflicts with a task request, STOP and ask. Do not guess.
+
+## Voice: non-negotiables
+- Constraint-driven, operator-grade, institutional
+- Calm, precise, concrete
+- Facts over vibes
+- No hype, no marketing energy
+- Write like an IC memo distilled into public language
+
+## Tone controls
+- Prefer short sentences.
+- Prefer nouns/verbs over adjectives.
+- State the constraint first; yield is a consequence.
+- Avoid “thought leader cadence” and rhetorical flourishes.
+- Never sound like a creator, influencer, or newsletter.
+
+## Evidence discipline
+- Do not invent numbers, outcomes, rankings, or timelines.
+- If data is missing, STOP and request the missing input.
+- Do not imply guarantees or certainty about markets.
+
+## Output discipline
+- Produce exactly ONE draft.
+- Do not provide variants.
+- Do not ask “do you want it sharper” or similar.
+- After drafting: STOP.
+
+==================================================
+FILE: codex/SWAP_TEST_CRITERIA.md
+==================================================
+
+# AlphaPing — Swap Test Criteria (Binding)
+
+## Purpose
+This is the preflight test for any draft. If the draft passes the swap test, it is too generic and must be rewritten.
+
+## Swap test (must FAIL)
+If the text still reads naturally when replacing "AlphaPing" with a competitor or generic operator, it FAILS.
+
+### Examples of swaps to test
+- Replace "AlphaPing" with: "a DeFi vault manager", "a credit fund", "a protocol", "a competitor"
+- Replace "operator-grade" with: "best-in-class", "institutional-grade", "robust"
+
+## Pass condition
+The text contains at least one AlphaPing-specific constraint, mechanism, or governance posture that would be false or awkward for a generic competitor.
+
+## If you cannot make it pass
+STOP and ask for the missing AlphaPing-specific inputs (e.g., mandate constraint, liquidity rule, benchmark rule, withdrawal behavior, risk bound, operational invariant).
+
+==================================================
+FILE: codex/STRUCTURAL_CONSTRAINTS.md
+==================================================
+
+# AlphaPing — Structural Constraints (Binding)
+
+## Purpose
+These rules prevent scope creep and “helpful” ChatGPT behavior.
+
+## Mandatory structure constraints
+- Use ONLY the declared skeleton.
+- Do NOT add sections.
+- Do NOT reorder sections.
+- Do NOT add conclusions, summaries, or CTAs unless explicitly required by the skeleton.
+
+## Content constraints
+- No invented facts.
+- No “industry commentary” unless requested and supported by provided material.
+- No engagement bait: questions to the reader, hot takes, outrage, dunking.
+
+## Interaction constraints
+- Do not offer multiple versions.
+- Do not ask what tone the user wants after drafting.
+- If skeleton is missing: STOP and request it.
+- If required inputs are missing: STOP and request them.
+
+## Output constraint
+- Produce ONE draft only, then STOP.
+
+==================================================
+FILE: codex/DISALLOWED_LANGUAGE_LIST.md
+==================================================
+
+# AlphaPing — Disallowed Language List (Binding)
+
+## Purpose
+These phrases and patterns are banned because they trigger hype, vagueness, or generic marketing tone.
+
+## Banned hype / sales language
+- "game-changer", "revolutionary", "next-gen", "cutting-edge"
+- "best-in-class", "industry-leading", "world-class"
+- "unlock", "supercharge", "moon", "alpha leaks"
+
+## Banned engagement bait
+- "Here’s the thing", "Let’s talk about", "You won’t believe"
+- "Thread 🧵", "Read this", "hot take"
+- "Say the word", "Want a version", "I can also"
+
+## Banned vague claims
+- "safe", "guaranteed", "risk-free", "always", "never fails"
+- "proven", "bulletproof" (unless strictly evidenced and defined)
+
+## Banned fluff / filler
+- "clean operator-grade", "fits your tone" (meta-commentary)
+- "slightly more", "tighter", "sharper" (variant framing)
+
+## Rule
+If a draft relies on any banned pattern, rewrite. If rewriting requires missing inputs, STOP and ask.
