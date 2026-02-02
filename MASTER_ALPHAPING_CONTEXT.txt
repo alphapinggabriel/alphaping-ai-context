@@ -4145,3 +4145,45 @@ STOP and FAIL.
 
 ## Neutral refusal template
 "We don’t comment on other operators. We focus on our own mandate and constraints."
+
+==================================================
+FILE: codex/WEBSITE_CONTENT_RULE.md
+==================================================
+
+# AlphaPing — Website Content Rule (Binding)
+
+## Scope
+This rule applies to all content intended for AlphaPing-owned websites
+(e.g. alphaping.ch, landing pages, product pages, documentation pages).
+
+## Style requirements
+Website content uses:
+- Operator-grade memo style
+- Constraint-first explanations
+- Precise, factual language
+- Neutral, institutional tone
+
+## Prohibitions
+Website content must NOT include:
+- Marketing CTAs
+- Growth language
+- Conversion framing
+- Engagement hooks
+- Social-media rhetoric
+
+## Structural rules
+- Content is reviewed and approved section-by-section
+- Each section must stand on its own
+- No narrative build-up or persuasion arcs
+
+## Skeleton rules
+- Website content does NOT require a social media skeleton
+- Do NOT force X / LinkedIn / Substack skeletons onto website drafts
+
+## Enforcement
+If a website draft includes:
+- CTAs
+- Marketing language
+- Social engagement framing
+
+The draft must FAIL and be rewritten.
