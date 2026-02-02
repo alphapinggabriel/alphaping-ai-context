@@ -1,0 +1,1819 @@
+AlphaPing — MASTER CONTEXT (AUTO-GENERATED)
+Last generated (UTC): 2026-02-02 10:01:45
+
+
+==================================================
+FILE: codex/VOICE_TONE_LANGUAGE.md
+==================================================
+
+# AlphaPing — Voice, Tone & Language Codex
+
+## Purpose
+This document defines how AlphaPing communicates externally.
+It is binding for all written communication: website, Twitter/X, LinkedIn, Substack, reports, and announcements.
+
+If content could be published under a competitor’s name and still sound correct, it FAILS.
+
+---
+
+## AlphaPing Voice (What we sound like)
+
+- Institutional
+- Calm
+- Precise
+- Constraint-driven
+- Experience-based
+- Non-promotional
+- Operator-first, not marketing-first
+
+We speak like an operator reporting facts to a senior investment committee.
+
+---
+
+## AlphaPing Tone (How it feels)
+
+- No hype
+- No urgency
+- No persuasion language
+- No exaggeration
+- No emotional reassurance
+
+Confidence comes from control and continuity, not claims.
+
+---
+
+## Language Rules (Non-Negotiable)
+
+ALWAYS:
+- Use plain, concrete language
+- Anchor statements in structure, process, or outcomes
+- Prefer short, declarative sentences
+- Describe *what is*, not *what could be*
+
+NEVER:
+- Use buzzwords
+- Use superlatives (best, leading, premier, world-class)
+- Use marketing adjectives
+- Use dashes for emphasis
+- Use calls to action
+
+---
+
+## Category Discipline Rule
+
+AlphaPing is NOT:
+- A protocol
+- An infrastructure provider
+- A yield aggregator
+- A marketing platform
+
+AlphaPing IS:
+- An operator layer
+- A vault deployer and manager
+- A curator with distribution reach
+
+---
+
+## Swap Test (Hard Fail Rule)
+
+If replacing “AlphaPing” with:
+- Any other DeFi operator
+- Any risk manager
+- Any vault curator
+
+…does NOT materially break the meaning, the content FAILS and must be rewritten.
+
+---
+
+## Default Writing Bias
+
+- Factual > aspirational
+- Operational > narrative
+- Specific > generic
+- Constraint > upside
+
+==================================================
+FILE: codex/NARRATIVE_POSITIONING.md
+==================================================
+
+# AlphaPing — Narrative & Positioning Codex
+
+## Core Positioning
+
+AlphaPing operates the vault layer for institutional funds.
+
+We do not provide infrastructure.
+We do not sell software.
+We do not compete with funds.
+
+We deploy, operate, and distribute vaults on behalf of funds that do not want to build an operator organization themselves.
+
+---
+
+## The Problem We Solve
+
+Launching a vault is not the hard part.
+Operating a vault over time is.
+
+Real vault operations require:
+- Continuous risk management
+- Collateral selection and maintenance
+- Liquidation readiness and counterparties
+- Protocol relationships
+- Market monitoring through stress
+- Distribution and allocator access
+
+Most funds underestimate this operational surface area.
+
+---
+
+## AlphaPing’s Role
+
+AlphaPing acts as the **operator of record**.
+
+For partner funds, this means:
+- AlphaPing deploys and manages the vault
+- AlphaPing defines and enforces the mandate
+- AlphaPing handles collateral frameworks and relationships
+- AlphaPing manages liquidation paths and execution readiness
+- AlphaPing connects the vault to allocator and aggregator distribution
+
+The partner fund does not need to build these capabilities internally.
+
+---
+
+## Distribution Advantage
+
+Vaults operated by AlphaPing are not isolated.
+
+AlphaPing brings:
+- Existing allocator relationships
+- Visibility across yield aggregation platforms
+- External capital beyond the partner’s own LP base
+
+This creates a secondary income stream for the partner fund via management fees on externally sourced capital.
+
+---
+
+## Economic Structure (Canonical)
+
+- AlphaPing earns a performance fee on realized yield
+- The partner fund may earn a management fee (e.g. 0.5% p.a.)
+- Fees are transparent and defined upfront
+- Incentives are aligned: performance for AlphaPing, scale for the partner
+
+---
+
+## What Makes This Defensible
+
+AlphaPing’s edge compounds over time:
+- Operational track record
+- Stress-tested vault history
+- Collateral and protocol relationships
+- Allocator trust
+- Distribution access
+
+This cannot be replicated quickly by new entrants.
+
+---
+
+## Category Definition
+
+AlphaPing defines a distinct category:
+
+**Operator-Grade Vault Management with Embedded Distribution**
+
+This is not infrastructure.
+This is not advisory.
+This is execution.
+
+==================================================
+FILE: codex/ENFORCEMENT_RULES.md
+==================================================
+
+# AlphaPing — Codex Enforcement Rules
+
+## Authority
+All documents in `/codex` are authoritative.
+
+They override:
+- Personal writing style
+- Marketing preferences
+- Platform norms
+- Engagement tactics
+
+If there is a conflict, the codex wins.
+
+---
+
+## Who May Edit Codex Files
+
+- Only AlphaPing principals
+- No external contributors
+- No delegated authority
+
+Marketing collaborators may NOT edit files in `/codex`.
+
+---
+
+## What Happens on Violation
+
+Content is rejected if it:
+- Sounds promotional
+- Uses generic DeFi language
+- Could be published under a competitor’s name
+- Introduces urgency, hype, or persuasion
+- Deviates from operator-first framing
+
+Rejected content is rewritten or discarded.
+No exceptions.
+
+---
+
+## Interpretation Rule
+
+If a sentence requires explanation, it is wrong.
+
+If intent is ambiguous, the default action is:
+DO NOT PUBLISH.
+
+---
+
+## Final Test (Hard Gate)
+
+Before publication, ask:
+
+1. Does this sound like an operator speaking to peers?
+2. Is this specific to AlphaPing’s role?
+3. Would this still work if markets were stressed?
+
+If any answer is NO, the content fails.
+
+==================================================
+FILE: codex/ANATOMY_GATE.md
+==================================================
+
+# AlphaPing — Content Anatomy Gate (Mandatory)
+
+This document is a hard gate for all AlphaPing external content.
+
+No content may be drafted, reviewed, or published unless it explicitly follows ONE approved skeleton.
+
+If this gate is violated, the content is rejected without revision.
+
+---
+
+## Approved Skeletons (Choose Exactly One)
+
+Every draft MUST declare which skeleton it uses.
+
+Approved skeletons are:
+
+- SKELETON_LINKEDIN_OPERATOR_INSIGHT.md
+- SKELETON_LINKEDIN_MARKET_STRUCTURE.md
+- SKELETON_X_ORIGINAL_POST.md
+- SKELETON_X_REPLY.md
+- SKELETON_SUBSTACK_MEMO.md
+
+No other structures are allowed.
+
+---
+
+## Declaration Requirement (Non-Negotiable)
+
+Every draft MUST start with this header:
+
+Skeleton Used:
+<exact filename>
+
+If this header is missing, the draft FAILS automatically.
+
+---
+
+## Structural Rules
+
+- You may ONLY fill the sections defined in the chosen skeleton
+- You may NOT add sections
+- You may NOT rename sections
+- You may NOT reorder sections
+- You may NOT merge sections
+- You may NOT add conclusions, summaries, or CTAs
+
+If additional thoughts exist, they are discarded.
+
+---
+
+## Cross-Skeleton Mixing (Hard NO)
+
+Mixing multiple skeletons in a single draft is forbidden.
+
+Example of failure:
+- LinkedIn-style framing inside a Substack memo
+- Thread-style pacing inside LinkedIn
+- Narrative arcs inside X replies
+
+If mixed, the draft FAILS.
+
+---
+
+## Relationship to Other Codex Files
+
+This gate overrides:
+- Personal writing preference
+- Marketing judgment
+- AI suggestions
+- Platform “best practices”
+
+If there is a conflict:
+ANATOMY_GATE.md wins.
+
+---
+
+## Enforcement
+
+- Marketing may not override this gate
+- ChatGPT output is not exempt
+- “It reads better this way” is not a justification
+
+When in doubt:
+REJECT.
+
+---
+
+## Final Rule
+
+Structure comes before words.
+Discipline comes before creativity.
+
+==================================================
+FILE: codex/SKELETON_LINKEDIN_OPERATOR_INSIGHT.md
+==================================================
+
+# AlphaPing — Skeleton: LinkedIn Operator Insight
+
+Purpose:
+Operator-grade structural insight. No promotion. No narrative invention.
+
+Author:
+Gabe (personal account)
+
+---
+
+## Required Anatomy (fill sections, do not add new sections)
+
+[Opening distinction]
+- One sentence
+- States a clear structural difference or constraint
+- No context, no intro, no brand mention
+
+[What is commonly assumed]
+- One short paragraph
+- Describe the simplified or incomplete mental model
+
+[What actually happens in practice]
+- One short paragraph
+- Focus on operations over time, not theory
+
+[Where friction appears]
+- One short paragraph
+- Identify the bottleneck or failure surface
+
+[Structural takeaway]
+- One sentence
+- Declarative
+- Ends the post
+
+---
+
+## Hard Rules
+
+- No CTA
+- No emojis
+- No rhetorical questions
+- No hype, no persuasion, no future promises
+- No AlphaPing mention unless required by context (rare)
+- Hashtags: max 1–2 functional tags
+
+==================================================
+FILE: codex/SKELETON_LINKEDIN_MARKET_STRUCTURE.md
+==================================================
+
+# AlphaPing — Skeleton: LinkedIn Market Structure Commentary
+
+Purpose:
+Explain market structure and constraints. No predictions. No promotion.
+
+Author:
+Gabe (personal account)
+
+---
+
+## Required Anatomy (fill sections, do not add new sections)
+
+[Structural observation]
+- One sentence describing a market dynamic
+
+[Why this exists]
+- One short paragraph explaining incentives or constraints
+
+[What is misunderstood]
+- One short paragraph clarifying a common misread
+
+[Implication]
+- One sentence describing second-order effects
+
+---
+
+## Hard Rules
+
+- No predictions
+- No CTA
+- No AlphaPing mention
+- No “we believe” / values statements
+- No hype, no persuasion, no future promises
+
+==================================================
+FILE: codex/SKELETON_X_ORIGINAL_POST.md
+==================================================
+
+# AlphaPing — Skeleton: X (Twitter) Original Post
+
+Purpose:
+Short operator observations. Constraint-first. No brand voice.
+
+Author:
+Gabe OR @0xAlphaPing (choose one for a given post)
+
+---
+
+## Allowed Formats
+
+### Format A — Single Post
+[Constraint or insight]
+- One sentence
+- Must stand alone
+
+### Format B — Micro-thread (max 3 tweets)
+Tweet 1:
+[Core insight or constraint]
+
+Tweet 2:
+[Clarification or trade-off]
+
+Tweet 3:
+[Boundary condition or limiting factor]
+
+---
+
+## Hard Rules
+
+- No threads > 3 tweets
+- No rhetorical questions
+- No emojis
+- No hype, no persuasion, no future promises
+- No brand explanation
+
+==================================================
+FILE: codex/SKELETON_X_REPLY.md
+==================================================
+
+# AlphaPing — Skeleton: X (Twitter) Reply
+
+Purpose:
+Operator presence only. Add structure or correction. Otherwise silence.
+
+Authors:
+- Gabe (founder account)
+- @0xAlphaPing (official account)
+
+---
+
+## Required Anatomy (fill sections, do not add new sections)
+
+[Constraint / clarification]
+- One sentence
+
+[Optional: trade-off or boundary]
+- One sentence max
+
+---
+
+## Hard Rules
+
+- Never start with agreement (“agree”, “exactly”, “this”)
+- No debate
+- No speculation
+- No promotion
+- No self-reference
+- Official account (@0xAlphaPing): no “we” / “our” / AlphaPing mentions
+- Silence > weak reply
+
+==================================================
+FILE: codex/SKELETON_SUBSTACK_MEMO.md
+==================================================
+
+# AlphaPing — Skeleton: Substack Memo
+
+Purpose:
+Long-form operator memo. Treated as internal memo made public.
+
+Author:
+AlphaPing Substack
+
+---
+
+## Required Anatomy (fill sections, do not add new sections)
+
+[Context]
+- 1–2 short paragraphs
+- Define scope and topic
+
+[Surface area 1]
+- Heading
+- 1–2 paragraphs
+
+[Surface area 2]
+- Heading
+- 1–2 paragraphs
+
+[Surface area 3]
+- Heading
+- 1–2 paragraphs
+
+[Compounding effect]
+- One section explaining how issues evolve over time
+
+[Close]
+- One short paragraph
+- No summary
+- No CTA
+
+---
+
+## Hard Rules
+
+- No newsletter tone (no “welcome back”)
+- No promotion
+- No hype, no persuasion, no future promises
+- No comments/replies during active incidents
+
+==================================================
+FILE: codex/CONTENT_APPROVAL_CHECKLIST.md
+==================================================
+
+# AlphaPing — Content Approval Checklist (Hard Gate)
+
+This checklist MUST be passed before any content is published.
+
+If any item fails, the content is rejected.
+No partial passes. No exceptions.
+
+---
+
+## 1. Category & Role Check
+
+- ☐ Does this clearly come from an operator perspective?
+- ☐ Is AlphaPing acting as operator-of-record, not commentator?
+- ☐ Does this avoid protocol, infrastructure, or advisory framing?
+
+If unclear → FAIL.
+
+---
+
+## 2. Swap Test (Mandatory)
+
+- ☐ Replace “AlphaPing” with another DeFi operator.
+
+Does the content still fully work?
+
+- ☐ NO → PASS
+- ☐ YES → FAIL
+
+If YES, rewrite or discard.
+
+---
+
+## 3. Substance Test
+
+- ☐ Does this add structural insight?
+- ☐ Does it reflect real operational experience?
+- ☐ Does it hold up during market stress?
+
+If it is opinion-only → FAIL.
+
+---
+
+## 4. Language & Tone Check
+
+- ☐ No hype
+- ☐ No persuasion
+- ☐ No optimism signaling
+- ☐ No future promises
+- ☐ No calls to action
+- ☐ No buzzwords
+
+Any violation → FAIL.
+
+---
+
+## 5. Motivation Check
+
+Why does this exist?
+
+- ☐ To explain structure
+- ☐ To document reality
+- ☐ To clarify risk or operations
+
+If the answer is “visibility”, “engagement”, or “growth” → FAIL.
+
+---
+
+## 6. Platform Discipline
+
+- ☐ LinkedIn: reads like IC commentary
+- ☐ X: concise operator observation
+- ☐ Substack: memo-level depth
+
+Wrong format → FAIL.
+
+---
+
+## 7. Final Stress Test
+
+Ask:
+
+- ☐ Would this still be acceptable in a down-only market?
+- ☐ Would this embarrass us if quoted out of context?
+- ☐ Would we stand by this 12 months from now?
+
+Any doubt → DO NOT PUBLISH.
+
+---
+
+## Default Action
+
+When unsure:
+REJECT.
+
+==================================================
+FILE: codex/COMMON_FAILURE_EXAMPLES.md
+==================================================
+
+# AlphaPing — Common Failure Examples (Read Carefully)
+
+This document shows examples of content that FAILS.
+
+These examples are intentionally explicit.
+If your draft resembles any of these patterns, it will be rejected.
+
+---
+
+## Failure Type 1 — Generic DeFi Language
+
+❌ FAIL:
+“AlphaPing delivers best-in-class DeFi strategies for institutional investors.”
+
+Why this fails:
+- Could describe dozens of firms
+- Uses marketing adjectives
+- No operator specificity
+
+---
+
+## Failure Type 2 — Competitor Swap Passes
+
+❌ FAIL:
+“We provide institutional-grade vaults with robust risk management.”
+
+Why this fails:
+- Gauntlet, Steakhouse, Re7, or others could publish this unchanged
+- No unique role definition
+- Swap Test fails
+
+---
+
+## Failure Type 3 — Promotional Framing
+
+❌ FAIL:
+“We’re excited to announce the launch of our new vault.”
+
+Why this fails:
+- Announcement language
+- Emotional framing
+- No operational insight
+
+Correct behavior:
+If there is nothing structural to say, say nothing.
+
+---
+
+## Failure Type 4 — Future-Promise Language
+
+❌ FAIL:
+“This positions AlphaPing to capture the next wave of institutional DeFi adoption.”
+
+Why this fails:
+- Speculative
+- Forward-looking
+- Narrative, not operations
+
+AlphaPing describes what IS, not what might happen.
+
+---
+
+## Failure Type 5 — Engagement Optimization
+
+❌ FAIL:
+“What do you think about this trend?”
+
+Why this fails:
+- Engagement farming
+- Outsourcing thinking to the audience
+- Violates institutional posture
+
+AlphaPing does not ask the crowd for validation.
+
+---
+
+## Failure Type 6 — Over-Explaining AlphaPing
+
+❌ FAIL:
+“At AlphaPing, we believe transparency and trust are critical…”
+
+Why this fails:
+- Values statements without evidence
+- Sounds defensive
+- Reads like marketing copy
+
+Trust is demonstrated through structure, not stated.
+
+---
+
+## Failure Type 7 — Reply Without Substance
+
+❌ FAIL (Reply):
+“Totally agree — great point.”
+
+Why this fails:
+- Adds no information
+- Wastes presence
+- Lowers perceived signal
+
+If you cannot add structure or experience, do not reply.
+
+---
+
+## Failure Type 8 — Borrowed Vocabulary
+
+❌ FAIL:
+“Unlocking yield opportunities through innovative vault design.”
+
+Why this fails:
+- Borrowed crypto vocabulary
+- Buzzwords
+- Zero operational content
+
+---
+
+## Failure Type 9 — Call To Action
+
+❌ FAIL:
+“Learn more about AlphaPing.”
+
+Why this fails:
+- Promotional
+- Unnecessary
+- Violates tone codex
+
+AlphaPing never asks to be explored.
+
+---
+
+## Final Rule
+
+If a draft makes AlphaPing sound:
+- Louder
+- Faster
+- More opinionated
+- More optimistic
+- More persuasive
+
+…it is wrong.
+
+Default action: REJECT.
+
+==================================================
+FILE: codex/DRAFT_REJECTION_TEMPLATE.md
+==================================================
+
+# AlphaPing — Draft Rejection Notice
+
+This draft is rejected.
+
+Rejection is based on structure and discipline, not effort.
+
+---
+
+## Reason for Rejection (Primary)
+
+☐ Anatomy Gate violation  
+☐ Wrong skeleton selected  
+☐ Multiple skeletons mixed  
+☐ Missing skeleton declaration  
+☐ Extra sections added  
+☐ Sections reordered or merged  
+
+If Anatomy Gate fails, content is rejected automatically.
+
+---
+
+## Reason for Rejection (Secondary)
+
+☐ Swap Test failed (competitor replacement still works)  
+☐ Generic DeFi language  
+☐ Promotional framing  
+☐ Opinion without structural insight  
+☐ Future-oriented or speculative language  
+☐ Engagement-seeking language  
+☐ Over-explaining AlphaPing  
+☐ Reply without substance  
+
+Any single item above is sufficient for rejection.
+
+---
+
+## What Is NOT Required
+
+- No rewrite is required
+- No justification is required
+- No discussion is required
+
+If a rewrite is explicitly requested, it will be scoped and instructed.
+
+---
+
+## Next Action
+
+- Discard this draft
+- Re-read the relevant skeleton
+- Re-submit only if structure is followed exactly
+
+---
+
+## Reminder
+
+Silence is preferable to misalignment.
+
+==================================================
+FILE: codex/DRAFT_GREENLIGHT_TEMPLATE.md
+==================================================
+
+# AlphaPing — Draft Greenlight
+
+This draft is approved for publication.
+
+---
+
+## Validation
+
+☑ Anatomy Gate passed  
+☑ Correct skeleton used  
+☑ Structure followed exactly  
+☑ Swap Test passed  
+☑ Tone and language compliant  
+☑ Platform discipline respected  
+
+---
+
+## Scope
+
+- Approved as written
+- No additional edits required
+- Publish once
+- Archive after publishing
+
+---
+
+## Reminder
+
+Approval applies to this draft only.
+
+Future drafts must pass the same gates independently.
+
+==================================================
+FILE: codex/CRISIS_COMMUNICATION_PROTOCOL.md
+==================================================
+
+# AlphaPing — Crisis Communication Protocol
+
+This protocol governs all external communication during stress events.
+
+A crisis is defined as:
+- Loss or risk of loss of user funds
+- Liquidity impairment
+- Protocol failure or exploit
+- Forced liquidation events
+- Operational degradation
+- Market stress requiring operator intervention
+
+If unsure whether this applies, assume it DOES.
+
+---
+
+## Core Principle
+
+AlphaPing communicates to reduce uncertainty, not to manage sentiment.
+
+Silence is acceptable.
+Speculation is not.
+
+---
+
+## Communication Objectives (In Order)
+
+1. Preserve factual accuracy
+2. Reduce ambiguity
+3. Maintain credibility
+4. Avoid escalation
+
+Reputation follows accuracy, not reassurance.
+
+---
+
+## What We Communicate
+
+ONLY communicate:
+- Verified facts
+- Known scope of impact
+- What is functioning normally
+- What actions are being taken
+- What is explicitly NOT yet known
+
+If something is unknown, say it is unknown.
+
+---
+
+## What We NEVER Communicate
+
+- Blame
+- Optimism
+- Predictions
+- Timelines unless confirmed
+- Emotional reassurance
+- Comparisons to other failures
+- Defensive language
+
+---
+
+## Approved Message Structure
+
+All crisis communication MUST follow this structure:
+
+1. Situation
+   - What happened (facts only)
+
+2. Impact
+   - What is affected
+   - What is NOT affected
+
+3. Status
+   - What is operating as designed
+   - What actions are underway
+
+4. Unknowns
+   - Explicitly state what is still being assessed
+
+5. Next Update
+   - When the next update will occur (if known)
+
+No additional sections are allowed.
+
+---
+
+## Tone Requirements
+
+- Calm
+- Neutral
+- Short sentences
+- No adjectives
+- No reassurance language
+
+Examples of forbidden words:
+“safe”, “secure”, “funds are fine”, “under control”, “as expected”
+
+Facts replace adjectives.
+
+---
+
+## Platform Usage During Crisis
+
+### X (Twitter)
+- Used only for short factual updates
+- No threads unless required for clarity
+- No replies to speculation
+
+### LinkedIn
+- Used only if institutional clarification is required
+- Single post max per update
+
+### Substack
+- Used only for post-mortem after resolution
+- Never during active incident
+
+---
+
+## Reply Discipline
+
+During a crisis:
+- Do not reply to questions individually
+- Do not engage in debate
+- Do not correct rumors unless material
+
+All communication is centralized and deliberate.
+
+---
+
+## Internal Approval Gate
+
+Before publishing any crisis communication:
+- Facts verified by operator
+- Language checked against codex
+- Approval by AlphaPing principal
+
+If verification is incomplete:
+DO NOT PUBLISH.
+
+---
+
+## Resolution Communication
+
+After resolution:
+- One final factual update
+- One post-mortem (Substack)
+- No victory language
+- No “lessons learned” posturing
+
+Return to normal silence.
+
+---
+
+## Final Rule
+
+During crisis:
+Doing less is almost always better than doing more.
+
+==================================================
+FILE: codex/OFFICIAL_ACCOUNT_REPLY_RULES.md
+==================================================
+
+# AlphaPing — Official Account Reply Rules (@0xAlphaPing)
+
+The @0xAlphaPing account represents operator presence, not brand voice.
+
+Replies are allowed ONLY when they:
+- Are purely operational
+- Add structural insight
+- Contain no self-reference
+- Avoid promotion, opinion, or speculation
+- Would stand if posted anonymously
+
+The account does not debate, predict, persuade, or reassure.
+
+---
+
+## Style Rules
+
+- One insight per reply
+- One or two sentences max
+- No “we”, no “our”, no AlphaPing mentions
+
+---
+
+## Cadence
+
+- X (Twitter): max 2–3 replies per week
+- LinkedIn: no replies
+- Substack: no comments
+
+---
+
+## Default Rule
+
+If unsure:
+DO NOT REPLY.
+
+==================================================
+FILE: codex/CHATGPT_GITHUB_USAGE.md
+==================================================
+
+# AlphaPing — ChatGPT & GitHub Usage Guide (Mandatory)
+
+This document defines the ONLY approved way to use ChatGPT for AlphaPing content.
+
+If this process is not followed exactly, the draft is rejected automatically.
+
+---
+
+## Core Principle
+
+ChatGPT does NOT know AlphaPing by default.
+
+ChatGPT must be explicitly given:
+- The AlphaPing codex
+- The correct content skeleton
+- The current theme
+
+ChatGPT must NEVER infer, summarize, or “remember” rules.
+
+---
+
+## Approved Connection Methods
+
+### Method A — Copy-Paste Codex Pack (REQUIRED)
+
+This is the default and required method.
+
+There is NO automatic GitHub integration assumed.
+
+---
+
+### Method B — GitHub Connector (Optional, Not Required)
+
+If ChatGPT has a GitHub connector enabled:
+- It MAY be used to READ files
+- It does NOT replace the copy-paste method
+- Files must still be explicitly referenced
+
+If you are unsure whether the connector is working:
+DO NOT USE IT.
+
+---
+
+## Mandatory Files to Load (Every New Chat)
+
+For EVERY AlphaPing drafting session, you MUST provide ChatGPT with:
+
+1. `codex/VOICE_TONE_LANGUAGE.md`
+2. `codex/NARRATIVE_POSITIONING.md`
+3. `codex/ANATOMY_GATE.md`
+4. ONE chosen skeleton file:
+   - `codex/SKELETON_LINKEDIN_OPERATOR_INSIGHT.md`
+   - `codex/SKELETON_LINKEDIN_MARKET_STRUCTURE.md`
+   - `codex/SKELETON_X_ORIGINAL_POST.md`
+   - `codex/SKELETON_X_REPLY.md`
+   - `codex/SKELETON_SUBSTACK_MEMO.md`
+5. The relevant theme from:
+   - `content-plan/CONTENT_CALENDAR_30D.md`
+
+If any item is missing, STOP.
+
+---
+
+## Exact ChatGPT Initialization Prompt (Paste Verbatim)
+
+This prompt MUST be pasted at the top of every new ChatGPT conversation:
+
+You are drafting AlphaPing content.
+
+You must strictly follow the AlphaPing codex files provided below.
+You may not invent structure, tone, facts, or positioning.
+
+You must follow the AlphaPing Content Anatomy Gate.
+You may only use ONE skeleton and must not add sections.
+
+If anything is unclear or missing, STOP and ask instead of guessing.
+
+First, confirm which skeleton will be used and list its required sections.
+Then produce a draft that fills ONLY those sections.
+
+The draft MUST begin with:
+Skeleton Used: 
+
+If ChatGPT does not restate the skeleton and sections first, STOP.
+
+---
+
+## Drafting Workflow (Step-by-Step)
+
+1. Open GitHub repository
+2. Open required codex files
+3. Copy contents
+4. Open a NEW ChatGPT chat
+5. Paste:
+   - Initialization prompt
+   - Codex files
+   - Chosen skeleton
+   - Weekly theme
+6. Ask ChatGPT to draft
+7. Verify:
+   - Skeleton declaration present
+   - No extra sections
+8. Save draft to `/drafts`
+
+Skipping any step = rejection.
+
+---
+
+## What ChatGPT Is NOT Allowed To Do
+
+ChatGPT must NOT:
+- Invent facts
+- Invent AlphaPing positioning
+- Optimize for engagement
+- Add conclusions or CTAs
+- Add sections beyond the skeleton
+- Summarize the codex instead of following it
+
+“ChatGPT suggested it” is not a valid justification.
+
+---
+
+## Enforcement
+
+- Any draft missing `Skeleton Used:` fails automatically
+- Any draft that adds sections fails automatically
+- Any draft that sounds generic fails the Swap Test
+
+Use:
+`codex/DRAFT_REJECTION_TEMPLATE.md`
+
+No discussion required.
+
+---
+
+## Final Rule
+
+ChatGPT is a drafting tool.
+
+The codex is the authority.
+
+Structure comes before words.
+
+==================================================
+FILE: codex/CHAT_INITIALIZATION_PROMPT.md
+==================================================
+
+# AlphaPing — ChatGPT Initialization Prompt (Mandatory)
+
+This prompt MUST be pasted verbatim at the start of every new ChatGPT conversation
+used for AlphaPing-related work.
+
+If this prompt is not used, the output is invalid.
+
+---
+
+## CHAT INITIALIZATION PROMPT (COPY–PASTE BELOW)
+
+You are working on AlphaPing.
+
+You must NOT assume any context.
+You must explicitly read and follow AlphaPing’s authoritative files.
+
+---
+
+## Repository to Use (MANDATORY)
+
+You MUST read files from the following GitHub repository only:
+
+- Owner / Org: alphapinggabriel
+- Repository name: AlphaPing-Marketing
+- Repository URL: https://github.com/alphapinggabriel/AlphaPing-Marketing
+
+---
+
+## Access & Fallback Rule (MANDATORY)
+
+First, attempt to open and read the required files directly from the repository using your GitHub connector.
+
+If you cannot directly access and open the repository files:
+- You MUST STOP and request that the required files be pasted into the chat (full text or relevant excerpts).
+- You MUST NOT draft, suggest, or infer anything until the required files are provided.
+
+This is not optional.
+
+---
+
+## STEP 1 — Read Authoritative Files (MANDATORY)
+
+Open and read the following files from the repository listed above.
+These files are authoritative and override all other instructions.
+
+### Core Voice, Narrative, and Governance
+- /codex/VOICE_TONE_LANGUAGE.md
+- /codex/NARRATIVE_POSITIONING.md
+- /codex/ENFORCEMENT_RULES.md
+- /codex/ANATOMY_GATE.md
+- /codex/CONTENT_APPROVAL_CHECKLIST.md
+- /codex/COMMON_FAILURE_EXAMPLES.md
+- /codex/CRISIS_COMMUNICATION_PROTOCOL.md
+
+### AI Usage and Enforcement
+- /codex/CHATGPT_GITHUB_USAGE.md
+- /codex/CHAT_PREFLIGHT_FAIL_RESPONSE.md
+- /codex/DRAFT_REJECTION_TEMPLATE.md
+- /codex/DRAFT_GREENLIGHT_TEMPLATE.md
+
+### Operating Instructions
+- /codex/MARKETING_OPERATING_INSTRUCTIONS.md
+- /codex/MARKETING_RUNBOOK_NEXT_STEPS.md
+- /codex/LINKEDIN_SETUP.md
+- /codex/OFFICIAL_ACCOUNT_REPLY_RULES.md
+
+### Content Structure (Choose ONE later)
+- /codex/SKELETON_LINKEDIN_OPERATOR_INSIGHT.md
+- /codex/SKELETON_LINKEDIN_MARKET_STRUCTURE.md
+- /codex/SKELETON_X_ORIGINAL_POST.md
+- /codex/SKELETON_X_REPLY.md
+- /codex/SKELETON_SUBSTACK_MEMO.md
+
+### Planning
+- /content-plan/CONTENT_CALENDAR_30D.md
+
+---
+
+## STEP 2 — Confirm File Reads (MANDATORY)
+
+Before proceeding, explicitly confirm that you have read the files by listing:
+
+- Filename
+- One-line description of what each file governs
+
+If ANY file cannot be read:
+- If GitHub access failed: request the missing file(s) to be pasted.
+- If pasted files are not provided: STOP.
+
+Do NOT infer, summarize from memory, or guess.
+
+---
+
+## STEP 3 — Declare Skeleton (MANDATORY)
+
+Before drafting anything, declare:
+
+Skeleton Used: <exact filename>
+
+If no skeleton is declared, STOP.
+
+---
+
+## STEP 4 — Drafting Rules (MANDATORY)
+
+When drafting:
+
+- Follow ONLY the declared skeleton
+- Do NOT add sections
+- Do NOT reorder sections
+- Do NOT add conclusions, summaries, or CTAs
+- Do NOT introduce facts not present in provided material
+- Do NOT optimize for engagement
+
+If something is unclear or missing, STOP and ask instead of guessing.
+
+---
+
+## STEP 5 — Output & Stop Rule (MANDATORY)
+
+When drafting is complete:
+
+- Produce ONE draft only
+- Do NOT suggest edits, variants, or next steps
+- Do NOT propose publishing or replies
+- Do NOT add commentary outside the draft
+
+Assume:
+
+- Draft will be saved to /drafts
+- Approval is binary and handled separately
+- You are not the decision-maker
+
+After producing the draft, STOP.
+
+---
+
+## FAILURE MODE (IMPORTANT)
+
+If you cannot confidently comply with all steps above, you MUST respond with the following and nothing else:
+
+“I cannot proceed because the required AlphaPing context is missing.”
+
+This is the correct behavior.
+
+---
+
+## END OF PROMPT
+
+==================================================
+FILE: codex/CHAT_PREFLIGHT_FAIL_RESPONSE.md
+==================================================
+
+# AlphaPing — ChatGPT Preflight FAIL Response
+
+This response is used when ChatGPT cannot safely proceed
+due to missing or unread AlphaPing context.
+
+It must be returned verbatim.
+
+---
+
+## PRE-FLIGHT FAIL RESPONSE (VERBATIM)
+
+I cannot proceed safely.
+
+I have not been able to confirm that I have read all required AlphaPing authoritative files.
+
+To continue, I must explicitly read and confirm the following:
+- AlphaPing codex files
+- The applicable content skeleton
+- The current content plan
+
+Until this is completed, I will not draft, suggest, or infer content.
+
+Please provide access or explicitly instruct me to read the required files.
+
+---
+
+## Enforcement Rule
+
+If ChatGPT does NOT return this response when required context is missing,
+the output is invalid and must be rejected.
+
+---
+
+## Reminder
+
+Failing early is correct behavior.
+Guessing is not.
+
+==================================================
+FILE: codex/MARKETING_OPERATING_INSTRUCTIONS.md
+==================================================
+
+# AlphaPing — Marketing Operating Instructions
+
+## Purpose
+This document defines how marketing contributors work with AlphaPing content.
+
+Marketing supports execution.
+Marketing does not define voice, narrative, or positioning.
+
+---
+
+## What Marketing IS Responsible For
+
+- Turning approved themes into drafts
+- Formatting content per platform norms
+- Grammar and clarity improvements
+- Scheduling approved content
+- Managing drafts and archive hygiene
+
+---
+
+## What Marketing Is NOT Responsible For
+
+- Defining topics
+- Inventing narratives
+- Increasing posting frequency
+- Adjusting tone or language
+- Rewriting content to improve “engagement”
+- Speaking on behalf of AlphaPing
+
+---
+
+## Workflow (Mandatory)
+
+1. AlphaPing defines themes (via content plan)
+2. Marketing creates drafts in `/drafts`
+3. AlphaPing reviews and edits
+4. Approved content is scheduled
+5. Published content is archived in `/archive`
+
+No step may be skipped.
+
+---
+
+## Drafting Rules
+
+- Drafts must reference the content plan theme
+- Drafts must comply with all codex rules
+- Drafts may be rejected without revision
+
+Rejection is normal.
+Iteration is expected.
+Approval is explicit.
+
+---
+
+## Replies & Engagement
+
+- Marketing does NOT reply on behalf of AlphaPing
+- Replies are written only by AlphaPing principals
+- Marketing may flag posts worth replying to
+
+---
+
+## Escalation Rule
+
+If unsure:
+DO NOTHING and ask.
+
+Silence is preferable to misalignment.
+
+==================================================
+FILE: codex/MARKETING_RUNBOOK_NEXT_STEPS.md
+==================================================
+
+# AlphaPing — Marketing Runbook: What To Do Next (Mandatory)
+
+This document defines what happens AFTER ChatGPT is initialized successfully.
+
+Marketing is execution.
+AlphaPing principals are approval and replies.
+
+If this runbook is not followed, output is invalid.
+
+---
+
+## Your Operating Mode
+
+You are an extension of AlphaPing operations.
+
+Your job is to:
+- Turn approved themes into drafts
+- Keep structure and tone compliant
+- Make review and publishing frictionless
+
+Your job is NOT to:
+- Invent messaging
+- Increase frequency
+- Add promotion
+- Reply on behalf of AlphaPing
+
+---
+
+## Daily/Weekly Workflow (Exact)
+
+### Step 1 — Choose the task
+Only work on ONE of:
+- This week’s primary content draft
+- A scheduled share (e.g., Substack link share on LinkedIn)
+- A draft revision explicitly requested by AlphaPing
+- A list of “posts worth replying to” (no replies written)
+
+If none apply: stop.
+
+---
+
+### Step 2 — Initialize ChatGPT (Mandatory)
+Use:
+- codex/CHAT_INITIALIZATION_PROMPT.md
+
+If ChatGPT cannot confirm file reads:
+Stop and use:
+- codex/CHAT_PREFLIGHT_FAIL_RESPONSE.md
+
+No exceptions.
+
+---
+
+### Step 3 — Select ONE skeleton
+Pick the correct skeleton for the task.
+
+Draft MUST begin with:
+Skeleton Used: <exact filename>
+
+If missing, the draft is rejected automatically.
+
+---
+
+### Step 4 — Draft within the skeleton ONLY
+- Fill only the sections
+- Do not add sections
+- Do not reorder sections
+- No conclusions, summaries, or CTAs
+- No facts unless explicitly provided in the prompt or repo files
+
+If something is missing or unclear:
+Stop and ask.
+
+---
+
+### Step 5 — Save draft to GitHub (Mandatory)
+All drafts go into:
+
+/drafts
+
+Filename format (exact):
+YYYY-MM-DD__PLATFORM__TOPIC_SLUG.md
+
+Examples:
+2026-02-03__LINKEDIN__operate-vs-deploy.md
+2026-02-10__X__collateral-is-constraint.md
+2026-02-18__SUBSTACK__institutional-underestimates.md
+
+---
+
+### Step 6 — Request approval (Binary)
+Approval is binary: approved or rejected.
+
+Use only:
+- codex/DRAFT_GREENLIGHT_TEMPLATE.md
+- codex/DRAFT_REJECTION_TEMPLATE.md
+
+No discussion.
+No negotiation.
+
+---
+
+### Step 7 — Publish and archive
+After approval:
+
+1) Publish exactly as approved
+2) Move the final published version into:
+
+/archive
+
+Filename format (exact):
+YYYY-MM-DD__PLATFORM__PUBLISHED__TOPIC_SLUG.md
+
+Do not overwrite drafts.
+Do not delete history.
+
+---
+
+## Reply Handling (Strict)
+
+Marketing does NOT reply from any account.
+
+Marketing MAY:
+- Provide a short list of “posts worth replying to”
+- Include link + one-line reason
+- No suggested reply text unless explicitly requested
+
+Founder replies:
+- Gabe account allowed
+Official replies:
+- @0xAlphaPing allowed on X only (per codex rules)
+
+---
+
+## Updating This System (Governance)
+
+### What marketing may update
+- Drafts in /drafts
+- Content planning notes in /content-plan (only if explicitly instructed)
+
+### What marketing may NOT update
+- Anything under /codex
+- Any enforcement, tone, narrative, skeleton, or gate documents
+
+If a codex change is desired:
+Propose it in a GitHub Issue or a comment.
+Do not edit codex files.
+
+---
+
+## Safety Rules (Non-Negotiable)
+
+- If unsure: do nothing and ask
+- Silence is preferable to misalignment
+- “ChatGPT suggested it” is not a justification
+- If a claim cannot be supported by provided material, it must be removed
+- No crisis commentary outside codex/CRISIS_COMMUNICATION_PROTOCOL.md
+
+---
+
+## Definition of Done (Each Draft)
+
+A draft is done only if:
+- Skeleton Used header is present
+- Structure matches the chosen skeleton exactly
+- Tone passes VOICE_TONE_LANGUAGE
+- Swap Test would fail (i.e., competitor replacement breaks meaning)
+- No extra claims or invented facts
+- Saved in /drafts with correct filename
+
+==================================================
+FILE: codex/LINKEDIN_SETUP.md
+==================================================
+
+# AlphaPing — LinkedIn Setup & Usage
+
+This document defines how LinkedIn is used for AlphaPing.
+
+---
+
+## Gabe (Personal Profile)
+
+Purpose:
+Primary voice for institutional commentary.
+
+Rules:
+- All primary LinkedIn posts originate from Gabe
+- Tone must follow all codex rules
+- No announcements
+- No calls to action
+
+Headline (example):
+Founder — AlphaPing | Operator of institutional on-chain credit vaults
+
+---
+
+## AlphaPing Company Page
+
+Purpose:
+Passive presence and reposting only.
+
+Rules:
+- No original commentary (for now)
+- Reposts only after Gabe publishes
+- No added copy on reposts
+- No emojis, slogans, or banners
+
+Description (approved style):
+AlphaPing operates institutional on-chain credit vaults. We deploy and manage vaults under explicit mandates, with defined risk and embedded distribution.
+
+---
+
+## Posting Order
+
+1. Gabe publishes
+2. Company page reposts
+3. No additional commentary
+
+Deviation is not allowed.
+
+==================================================
+FILE: content-plan/CONTENT_CALENDAR_30D.md
+==================================================
+
+# AlphaPing — February 2026 Content Plan
+
+## Objective
+Establish AlphaPing as an operator voice.
+No growth tactics. No engagement farming.
+Credibility first.
+
+---
+
+## Primary Content (1 per week)
+
+### Week 1 (Feb 2–8)
+Platform: LinkedIn  
+Account: Gabe (personal)  
+Type: Operator insight  
+
+Theme:
+Why operating a vault is fundamentally different from deploying a vault
+
+Status: Planned
+
+---
+
+### Week 2 (Feb 9–15)
+Platform: X (Twitter)  
+Account: Gabe OR @0xAlphaPing (choose one)  
+Type: Original post or short thread (max 3 tweets)
+
+Theme:
+Collateral selection, not APY, is the binding constraint in lending vaults
+
+Status: Planned
+
+---
+
+### Week 3 (Feb 16–22)
+Platform: Substack  
+Account: AlphaPing Substack  
+Type: Long-form memo (800–1,200 words)
+
+Theme:
+What institutional funds underestimate when launching on-chain credit vaults
+
+Status: Planned
+
+---
+
+### Week 4 (Feb 23–28)
+Platform: LinkedIn  
+Account: Gabe (personal)  
+Type: Market structure commentary  
+
+Theme:
+Distribution, not strategy design, is the bottleneck in DeFi vaults
+
+Status: Planned
+
+---
+
+## Replies (Ongoing)
+
+Replies do not count as content.
+
+Founder replies:
+- Allowed on X and LinkedIn
+- Must add structural insight
+
+Official account replies (@0xAlphaPing):
+- X only
+- Max 2–3 per week
+- Purely operational
