@@ -4055,3 +4055,93 @@ These phrases and patterns are banned because they trigger hype, vagueness, or g
 
 ## Rule
 If a draft relies on any banned pattern, rewrite. If rewriting requires missing inputs, STOP and ask.
+
+==================================================
+FILE: codex/COMPETITOR_BACKGROUND.md
+==================================================
+
+# AlphaPing — Competitor Background (Internal Reference Only)
+
+## Scope
+INTERNAL ONLY. Never cite or reference externally.
+
+## Source of truth
+DefiLlama “Risk Curators” category.
+
+## Steakhouse Financial
+- Category: Risk Curator
+- Role: Vault curator / operator
+- Notes: Large TVL footprint across chains
+
+## Gauntlet
+- Category: Risk Curator
+- Role: Risk modeling + curator
+- Notes: Active around Morpho and lending primitives
+
+## Sentora
+- Category: Risk Curator
+- Role: Vault and risk platform
+- Notes: Institutional framing
+
+## K3 Capital
+- Category: Risk Curator
+- Role: Curated strategies
+- Notes: Multi-chain presence
+
+## MEV Capital
+- Category: Risk Curator
+- Role: Investment + risk management
+- Notes: Strategy-driven operator
+
+## Re7 Labs
+- Category: Risk Curator
+- Role: Research-driven curator
+
+## UltraYield (Edge)
+- Category: Risk Curator
+- Role: Yield-focused vault operator
+
+## Vault Bridge
+- Category: Risk Curator
+- Role: Structured vault curator
+
+## Hyperithm
+- Category: Risk Curator
+- Role: Institutional allocator / curator
+
+## Telos Consilium
+- Category: Risk Curator
+- Role: Advisory + risk operator
+
+## B.Protocol Curator
+- Category: Risk Curator
+- Role: Economic risk mitigation hub
+
+## Update rule
+Refresh quarterly from DefiLlama.
+
+==================================================
+FILE: codex/COMPETITOR_MENTION_POLICY.md
+==================================================
+
+# AlphaPing — Competitor Mention Policy (Binding)
+
+## Rule
+AlphaPing does not comment on competitors.
+
+## Prohibited
+- Naming competitors in content
+- Comparing performance, TVL, or design
+- Replying to threads that involve competitor issues
+- Quoting or retweeting competitor content with commentary
+
+## Allowed
+- Internal analysis only
+- AlphaPing-only explanations without references
+
+## Mandatory behavior
+If a task or draft includes a competitor name:
+STOP and FAIL.
+
+## Neutral refusal template
+"We don’t comment on other operators. We focus on our own mandate and constraints."
