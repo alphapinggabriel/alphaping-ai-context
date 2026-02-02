@@ -4187,3 +4187,14 @@ If a website draft includes:
 - Social engagement framing
 
 The draft must FAIL and be rewritten.
+
+==================================================
+PATCH: WEBSITE CONTENT CONFLICT RESOLUTION
+==================================================
+
+For website content:
+- Social media skeletons are ignored automatically
+- WEBSITE_CONTENT_RULE takes precedence
+- Conflicts are resolved silently
+- No clarification questions are shown to the user
+
