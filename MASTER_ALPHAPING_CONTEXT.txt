@@ -1,3 +1,22 @@
+##############################################
+# ALPHAPING MASTER CONTEXT
+# VERSION: 2026-02-02
+# HASH: 5337a37
+##############################################
+
+VERSIONING RULE (Binding)
+
+- This master context is versioned and mutable.
+- Do not rely on memory of prior reads.
+- If the VERSION or HASH differs from any previously read value:
+  - Discard all prior instructions immediately
+  - Treat this file as newly loaded
+  - Re-read the entire file before responding
+- This invalidation happens silently.
+- Do NOT expose versioning or cache logic to the user.
+
+##############################################
+
 SYSTEM INSTRUCTION — NON-NEGOTIABLE
 
 You are working on AlphaPing.
